@@ -1,2 +1,4 @@
 # ML-FeedForward_Neural_Network
-ML Class project, Built a Feed forward neural network from scratch
+In this project, we implemented and evaluated several neural network training algorithms for classification and regression tasks on six datasets (three for classification and three for regression) from the UCI Machine Learning Repository. Using fully-connected feedforward architectures, We assess the performance of different network configurations, including varying numbers of layers and the use of varying numbers of nodes in each layer, to enhance network learning and generalization. Our experiments provide insights into the effectiveness of neural network architectures for various types and sizes of data. The findings highlights the importance of network complexity. While adding more layers improves performance (measured by MSE for regression and Macro averaged F1 score for classification) on some datasets, this effect is inconsistent across all datasets.
+
+**Note**  This is was a group project, but the code present in this repository is of my part.
